@@ -1,0 +1,6 @@
+location,region,demand,traffic,ev_adoption,nearby_supply,access,confidence,lat,lon,opportunity,validation_note
+Hamburg · HafenCity,Hamburg,86,81,79,37,84,Medium,53.543,9.993,Strong visitor and employment demand with a modeled supply gap,Separate stopping demand from through-traffic and verify inventory grid and access
+Berlin · Marzahn,Berlin,84,73,88,44,76,Medium,52.545,13.564,Urban EV adoption and population potential away from central clusters,Check neighborhood coverage curb restrictions and site availability
+Munich · Freiham,Bavaria,82,76,86,40,78,Medium,48.143,11.397,Growing urban edge with residential demand and regional access,Confirm nearby station build-out and distribution grid headroom
+Cologne · North corridor,North Rhine-Westphalia,78,91,72,58,88,Low,50.99,6.96,High modeled traffic and access could support a corridor site,Traffic may be through-traffic; validate dwell behavior and competitor completeness
+Leipzig · North,Saxony,74,68,70,29,73,Medium,51.39,12.39,Large modeled coverage gap relative to growing urban demand,Validate fast-charge coverage and regional BEV registrations

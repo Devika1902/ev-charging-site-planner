@@ -1,0 +1,3 @@
+# Local deployment metadata
+site-dist/.vercel/
+.vercel/

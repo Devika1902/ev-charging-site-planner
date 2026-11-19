@@ -1,0 +1,30 @@
+{
+  "rows": 22000,
+  "train_rows": 17600,
+  "test_rows": 4400,
+  "mae": 3.281,
+  "rmse": 4.137,
+  "r2": 0.8313,
+  "features": [
+    "demand",
+    "traffic",
+    "ev_adoption",
+    "nearby_supply",
+    "access",
+    "population_density",
+    "bev_growth"
+  ],
+  "target": "training_label",
+  "target_notice": "Synthetic simulated screening label; not observed utilization or commercial performance.",
+  "seed": 42,
+  "trained_utc": "2026-11-18T23:49:01.781086+00:00",
+  "feature_importance": {
+    "demand": 0.3539,
+    "traffic": 0.1634,
+    "ev_adoption": 0.2284,
+    "nearby_supply": 0.1834,
+    "access": 0.0288,
+    "population_density": 0.0121,
+    "bev_growth": 0.0301
+  }
+}
